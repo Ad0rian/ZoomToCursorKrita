@@ -18,6 +18,6 @@ Config the script:
 
 To change the shortcuts you will need to change the assigned keys on the script:
 
-You can change the "~KEY::" inputs, but remember to keep the "~", it's an attribute to work properly with Krita.
+You can change the "~KEY::" inputs, but remember to keep the symbol, it's an attribute to work properly with Krita.
 
 ![thing](https://github.com/Ad0rian/ZoomToCursorKrita/assets/24438036/93757e15-d457-4157-9686-5b0246f38410)
